@@ -14,12 +14,7 @@ Stemming: Using NLTK SnowballStemmer to normalize words
 Vectorization: CountVectorizer for text feature extraction
 Model: Decision Tree Classifier
 Installation
-Clone this repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/hate-speech-recognition.git
-cd hate-speech-recognition
+
 Install dependencies:
 bash
 Copy
